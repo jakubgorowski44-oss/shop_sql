@@ -76,7 +76,8 @@ Results are sorted by highest spending customers.
 project/
 │
 ├── main.py          # Console menu
-├── db.py            # Database operations
+├── database.py      # Database connection
+├── repository.py    # Database operations
 ├── .env             # Database configuration
 ├── README.md
 ```
